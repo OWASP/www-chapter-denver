@@ -2,53 +2,50 @@
 
 layout: col-sidebar
 title: OWASP Denver
-tags: example-tag
-level: 0
-
-region: United States
-
-auto-migrated: 1
+site_side: true
+tags: Denver
+level: 3
+region: North America
 
 ---
+OWASP Denver
+-----------------
+Welcome to the OWASP Denver chapter homepage!!
+
+***EVERYONE*** is welcome to attend our regular meetings, whether CSO, Developer, QA Engineer, Project Manager, ....  whomever, welcome.  We are dedicated to vendor neutral presentations that raise the security awareness of all attendees.  Come join us!
+
+Follow chapter news on [Meetup](https://www.meetup.com/Denver-OWASP/) 
+
+Join us on our [Slack Channel](https://join.slack.com/t/denver-owasp/shared_invite/zt-d9ncxhfp-Px6DZBZhsRplWExVbJnm0w) 
+
+The chapter board is 
+
+* [Serge Borso (Chapter President)](mailto:serge.borso@owasp.org)
+* [Aaron Cure (Board Member)](mailto:aaron.cure@owasp.org)
+* [Brad Gable (Board Member)](mailto:brad.gable@owasp.org)
+* [Steve Kosten (Board Member)](mailto:steve.kosten@owasp.org)
+* [Matt Shufeldt (Board Member)](mailto:matt.shufeldt@owasp.org)
+* [Frank Vianzon (Board Member)](mailto:frank.vianzon@owasp.org)
 
 
-<!-- Standard Chapter Page Template
-This is an example of a Project or Chapter page.
-Please change these items to indicate the actual information you wish to present. In addition to this information, the 'front-matter' above the text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+Next Meeting/Event(s)
+---------------------
+### April 15th at 5:00 PM (Virtual Meeting)
 
-{front matter for this file}
+**Location:** 
+[Microsoft Team Meeting](https://teams.microsoft.com/l/meetup-join/19%253a2febd4f736404233815e76e4a26c7c6e%2540thread.tacv2/1585681130533?context%3D%257b%2522Tid%2522%253a%2522c6df72ac-e529-4af3-8c5d-714360e9afa0%2522%252c%2522Oid%2522%253a%252288482a50-e7c7-4fdd-b653-1233feef0f26%2522%257d&sa=D&usd=2&usg=AOvVaw1o-mE_RcsGjSK5efCzzWNJ)
 
-```
-- layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
-- title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
-- tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
-- region: This is the region you are in according to our data
-```
 
-{copy for this file (index.md)}
-Replace the text above the commented area with your information in the format below:
-```
-## Welcome
-Include some information here about your chapter
+**Time: 5:00 PM - 7:00 PM**
 
-## Participation
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
+**You got Honey in my Web App** <br>
+Let's face it, attackers seem to be holding all the advantages... but it doesn't have to be that way... With a little bit of creativity and understanding of how attackers actually do what they do, you can mount an effective defense that will leave your attackers openly weeping wondering where it all went wrong. Turns out... it was when they mistakenly started gunning for your web apps. Attendees of this talk will learn about how each layer of a web app stack can be made into the attackers' worst nightmare.
 
-Chapters are led by local leaders in accordance with the [Chapter Leader Handbook](/www-policy/rules-of-procedure/chapter-handbook). Financial contributions should only be made online using the authorized online donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](/www-policy/speaker-agreement) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
+**Speaker:  Michael Douglas** <br>
+Even when his job title has indicated otherwise, Mick Douglas has been doing information security work for over 10 years. He received a bachelor's degree in communications from Ohio State University. He is the managing partner for InfoSec Innovations. He is a SANS Instructor and a member of the IANS faculty.
 
-Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
+Want to Present at OWASP Denver Chapter Events??
+--------------------------------------------
+Just email the proposed talk title, abstract and speaker bio to the Chapter Leaders via e-mail.  
 
-## Local News
-- Meeting Location
-- Everyone is welcome to join us at our chapter meetings.
-
-```
-{info.md}
-
-This separate file is where you should place links to your Google Group and Meetup page. It will be automatically rendered in the column sidebar.
-
-{leaders.md}
-
-Another separate file that should simply include each leaders name with mailto link as a list. It will also be automatically rendered in the column sidebar.
-
--->
+REMEMBER, ALL PRESENTATIONS MUST BE VENDOR NEUTRAL ... NO SALES PITCHES!!!

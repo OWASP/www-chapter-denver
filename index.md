@@ -30,13 +30,17 @@ The chapter board is
 
 Next Meeting/Event(s)
 ---------------------
-### April 15th at 5:00 PM (Virtual Meeting)
+### April 15th at 5:30 PM (Virtual Meeting)
 
 **Location:** 
-[Microsoft Team Meeting](https://teams.microsoft.com/l/meetup-join/19%253a2febd4f736404233815e76e4a26c7c6e%2540thread.tacv2/1585681130533?context%3D%257b%2522Tid%2522%253a%2522c6df72ac-e529-4af3-8c5d-714360e9afa0%2522%252c%2522Oid%2522%253a%252288482a50-e7c7-4fdd-b653-1233feef0f26%2522%257d&sa=D&usd=2&usg=AOvVaw1o-mE_RcsGjSK5efCzzWNJ)
+[Zoom Meeting](https://zoom.us/j/514365407?pwd=VUdmS1UxVXVMZU12aFFTVmNqaTB4Zz09)
+
+Meeting ID: RSVP on our [meetup page](https://www.meetup.com/OWASP-Denver) to receive meetingID and password
+
+Password: RSVP on our [meetup page](https://www.meetup.com/OWASP-Denver) to receive meetingID and password
 
 
-**Time: 5:00 PM - 7:00 PM**
+**Time: 5:30 PM - 7:00 PM**
 
 **You got Honey in my Web App** <br>
 Let's face it, attackers seem to be holding all the advantages... but it doesn't have to be that way... With a little bit of creativity and understanding of how attackers actually do what they do, you can mount an effective defense that will leave your attackers openly weeping wondering where it all went wrong. Turns out... it was when they mistakenly started gunning for your web apps. Attendees of this talk will learn about how each layer of a web app stack can be made into the attackers' worst nightmare.

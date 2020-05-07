@@ -12,7 +12,7 @@ OWASP Denver
 -----------------
 Welcome to the OWASP Denver chapter homepage!!
 
-***EVERYONE*** is welcome to attend our regular meetings, whether CSO, Developer, QA Engineer, Project Manager, ....  whomever, welcome.  We are dedicated to vendor neutral presentations that raise the security awareness of all attendees.  Come join us!
+***EVERYONE*** is welcome to attend our regular meetings, whether CSO, Developer, QA Engineer, Project Manager, ....  whoever, welcome.  We are dedicated to vendor neutral presentations that raise the security awareness of all attendees.  Come join us!
 
 Follow chapter news on [Meetup](https://www.meetup.com/Denver-OWASP/) 
 
@@ -30,23 +30,31 @@ The chapter board is
 
 Next Meeting/Event(s)
 ---------------------
-### April 15th at 5:30 PM (Virtual Meeting)
+### Wednesday May 20th at 5:00 PM (Virtual Meeting)
 
 **Location:** 
 [Zoom Meeting](https://zoom.us/j/514365407?pwd=VUdmS1UxVXVMZU12aFFTVmNqaTB4Zz09)
 
 Meeting ID: RSVP on our [meetup page](https://www.meetup.com/OWASP-Denver) to receive meetingID and password
 
-Password: RSVP on our [meetup page](https://www.meetup.com/OWASP-Denver) to receive meetingID and password
 
+**Time: 5:00 PM - 8:00 PM**
 
-**Time: 5:30 PM - 7:00 PM**
+**Security Innovation / CMD + CTRL Capture The Flag (CTF)** <br>
+For May's event, we are working with Security Innovation / CMD + CTRL to host a CTF/Cyber Range: Come get your hands dirty and go attack some new vulnerable web applications (Completely different range from prior SnowFROC events). There's something to learn and break for all skill levels. Come learn and have fun!
 
-**You got Honey in my Web App** <br>
-Let's face it, attackers seem to be holding all the advantages... but it doesn't have to be that way... With a little bit of creativity and understanding of how attackers actually do what they do, you can mount an effective defense that will leave your attackers openly weeping wondering where it all went wrong. Turns out... it was when they mistakenly started gunning for your web apps. Attendees of this talk will learn about how each layer of a web app stack can be made into the attackers' worst nightmare.
++++++++++++++
 
-**Speaker:  Michael Douglas** <br>
-Even when his job title has indicated otherwise, Mick Douglas has been doing information security work for over 10 years. He received a bachelor's degree in communications from Ohio State University. He is the managing partner for InfoSec Innovations. He is a SANS Instructor and a member of the IANS faculty.
+Stuck at home, but still want to test your skills in identifying web app vulnerabilities? OWASP Denver and Boulder chapters along with Security Innovation invite members to virtually compete in CMD+CTRL, a web application cyber range where players exploit their way through hundreds of vulnerabilities that lurk in business applications today. Success means learning quickly that attack and defense is all about thinking on your feet.
+
+For each vulnerability you uncover, you are awarded points. Climb the interactive leaderboard for a chance to win prizes! The range is open to all skill levels so come and try your hand at this event!
+
+All you need is your laptop and inner evil-doer!
+Register early to reserve your spot and get a sneak peek at our cheat sheets and FAQs!
+
+[Registration Page](https://web.securityinnovation.com/owasp-denver-boulder)
+
+**For registration, you will be asked for your contact information but Security Innovation has assured us that these will not be used for marketing purposes.**
 
 Want to Present at OWASP Denver Chapter Events??
 --------------------------------------------

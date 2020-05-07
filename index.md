@@ -33,9 +33,10 @@ Next Meeting/Event(s)
 ### Wednesday May 20th at 5:00 PM (Virtual Meeting)
 
 **Location:** 
-[Zoom Meeting](https://zoom.us/j/514365407?pwd=VUdmS1UxVXVMZU12aFFTVmNqaTB4Zz09)
+<a href="https://zoom.us/j/514365407?pwd=VUdmS1UxVXVMZU12aFFTVmNqaTB4Zz09" target="_blank">Zoom Meeting</a>
 
-Meeting ID: RSVP on our [meetup page](https://www.meetup.com/OWASP-Denver) to receive meetingID and password
+
+Meeting ID: RSVP on our <a href="https://www.meetup.com/OWASP-Denver" target="_blank">meetup page</a> to receive meetingID and password
 
 
 **Time: 5:00 PM - 8:00 PM**
@@ -52,9 +53,9 @@ For each vulnerability you uncover, you are awarded points. Climb the interactiv
 All you need is your laptop and inner evil-doer!
 Register early to reserve your spot and get a sneak peek at our cheat sheets and FAQs!
 
-[Registration Page](https://web.securityinnovation.com/owasp-denver-boulder)
+<a href="https://web.securityinnovation.com/owasp-denver-boulder" target="_blank">Registration Page</a>
 
-**For registration, you will be asked for your contact information but Security Innovation has assured us that these will not be used for marketing purposes.**
+**NOTE:  For registration, you will be asked for your contact information but Security Innovation has assured us that these will not be used for marketing purposes.**
 
 Want to Present at OWASP Denver Chapter Events??
 --------------------------------------------

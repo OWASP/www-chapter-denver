@@ -4,7 +4,7 @@ layout: col-sidebar
 title: OWASP Denver
 tags: example-tag
 level: 0
-
+altfooter: true
 region: United States
 
 

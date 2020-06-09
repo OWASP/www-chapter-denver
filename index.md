@@ -31,7 +31,7 @@ The chapter board is
 
 Next Meeting/Event(s)
 ---------------------
-### Wednesday May 20th at 5:00 PM (Virtual Meeting)
+### Wednesday June 17th at 5:30 PM (Virtual Meeting)
 
 **Location:** 
 <a href="https://zoom.us/j/514365407?pwd=VUdmS1UxVXVMZU12aFFTVmNqaTB4Zz09" target="_blank">Zoom Meeting</a>
@@ -40,23 +40,15 @@ Next Meeting/Event(s)
 Meeting ID: RSVP on our <a href="https://www.meetup.com/OWASP-Denver" target="_blank">meetup page</a> to receive meetingID and password
 
 
-**Time: 5:00 PM - 8:00 PM**
+**Time: 5:30 PM - 7:00 PM**
 
-**Security Innovation / CMD + CTRL Capture The Flag (CTF)** <br>
-For May's event, we are working with Security Innovation / CMD + CTRL to host a CTF/Cyber Range: Come get your hands dirty and go attack some new vulnerable web applications (Completely different range from prior SnowFROC events). There's something to learn and break for all skill levels. Come learn and have fun!
+**How to Build Awesome Security Instrumentation to Automate AppSec Testing and Protection** <br>
+>Modern software demands velocity, and traditional “outside in” scanning and firewalling are creating bottlenecks and slowing things down. In this talk, Jeff will approach application security from the “inside out”. We will show you how to create simple agents that get inside a running application (like a profiler or debugger) and give you access to everything you might want to know. We’ll demonstrate real agents that identify vulnerabilities without changing any code, scanning, or extra steps. We’ll identify vulnerabilities, analyze access control, and even prevent RCE attacks. Unlike scanning and firewalling, this approach establishes a safe and powerful way for development, security, and operations teams to collaborate. We’ll discuss how software security instrumentation works, how it’s being used in many organizations, and the implications for the practice of application security.
 
-+++++++++++++
+**Speaker:  Jeff Williams** 
+<br>
+>Jeff brings more than 20 years of security leadership experience as co-founder and Chief Technology Officer of Contrast Security. He recently authored the DZone DevSecOps, IAST, and RASP refcards and speaks frequently at conferences including JavaOne (Java Rockstar), BlackHat, QCon, RSA, OWASP, Velocity, and PivotalOne. Jeff is also a founder and major contributor to OWASP, where he served as Global Chairman for 9 years, and created the OWASP Top 10, OWASP Enterprise Security API, OWASP Application Security Verification Standard, XSS Prevention Cheat Sheet, and many more popular open source projects. Jeff has a BA from Virginia, an MA from George Mason, and a JD from Georgetown. <a href="https://www.linkedin.com/in/planetlevel/" target="_blank">Jeff's LinkedIn page</a>
 
-Stuck at home, but still want to test your skills in identifying web app vulnerabilities? OWASP Denver and Boulder chapters along with Security Innovation invite members to virtually compete in CMD+CTRL, a web application cyber range where players exploit their way through hundreds of vulnerabilities that lurk in business applications today. Success means learning quickly that attack and defense is all about thinking on your feet.
-
-For each vulnerability you uncover, you are awarded points. Climb the interactive leaderboard for a chance to win prizes! The range is open to all skill levels so come and try your hand at this event!
-
-All you need is your laptop and inner evil-doer!
-Register early to reserve your spot and get a sneak peek at our cheat sheets and FAQs!
-
-<a href="https://web.securityinnovation.com/owasp-denver-boulder" target="_blank">Registration Page</a>
-
-**NOTE:  For registration, you will be asked for your contact information but Security Innovation has assured us that these will not be used for marketing purposes.**
 
 Want to Present at OWASP Denver Chapter Events??
 --------------------------------------------

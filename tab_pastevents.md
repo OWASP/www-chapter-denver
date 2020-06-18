@@ -12,7 +12,9 @@ altfooter: true
 
 ## Past Events
 <hr>
-**2020 June:  [Download presentation](zz_presentations_2020_06.pdf) **
+
+**2020 June:  [Download presentation](zz_presentations_2020_06.pdf)**
+
 **How to Build Awesome Security Instrumentation to Automate AppSec Testing and Protection** <br>
 >Modern software demands velocity, and traditional “outside in” scanning and firewalling are creating bottlenecks and slowing things down. In this talk, Jeff will approach application security from the “inside out”. We will show you how to create simple agents that get inside a running application (like a profiler or debugger) and give you access to everything you might want to know. We’ll demonstrate real agents that identify vulnerabilities without changing any code, scanning, or extra steps. We’ll identify vulnerabilities, analyze access control, and even prevent RCE attacks. Unlike scanning and firewalling, this approach establishes a safe and powerful way for development, security, and operations teams to collaborate. We’ll discuss how software security instrumentation works, how it’s being used in many organizations, and the implications for the practice of application security.
 
@@ -21,7 +23,6 @@ altfooter: true
 >Jeff brings more than 20 years of security leadership experience as co-founder and Chief Technology Officer of Contrast Security. He recently authored the DZone DevSecOps, IAST, and RASP refcards and speaks frequently at conferences including JavaOne (Java Rockstar), BlackHat, QCon, RSA, OWASP, Velocity, and PivotalOne. Jeff is also a founder and major contributor to OWASP, where he served as Global Chairman for 9 years, and created the OWASP Top 10, OWASP Enterprise Security API, OWASP Application Security Verification Standard, XSS Prevention Cheat Sheet, and many more popular open source projects. Jeff has a BA from Virginia, an MA from George Mason, and a JD from Georgetown. <a href="https://www.linkedin.com/in/planetlevel/" target="_blank">Jeff's LinkedIn page</a>
 
 ===================================================================================
-
 **2020 April:  [Download presentation](zz_presentations_2020_04.pdf) **
 
 **You got Honey in my Web App** <br>

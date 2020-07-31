@@ -7,6 +7,9 @@ tags: Denver
 level: 3
 region: North America
 altfooter: true
+meetup-group: Denver-OWASP
+country: USA
+postal-code: 80208
 
 ---
 OWASP Denver

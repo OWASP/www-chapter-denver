@@ -13,6 +13,21 @@ altfooter: true
 ## Past Events
 <hr>
 
+**2020 July:**
+
+**Detect complex code patterns using semantic grep** <br>
+>We’ll discuss a static analysis tool we’re developing called Semgrep and compare it to tools like gosec. Semgrep is a tool for writing security and correctness queries on source code (for Go, Python, Java, C, and JS) with a simple grep-like interface. The original author, Yoann Padioleau, worked on Semgrep’s predecessor, Coccinelle, for Linux kernel refactoring, and later developed Semgrep while at Facebook. He’s now full time at r2c.
+
+>Semgrep is open-source and comes with a registry of OWASP Top 10 security checks. It’s ideal for security researchers, product security engineers, and developers who want to find complex code patterns without extensive knowledge of ASTs or advanced program analysis concepts.
+
+>For example, with Semgrep you can:
+
+>Simply match function calls. The pattern exec.Command(…) matches exec.Command() called with any arguments or across multiple lines - but not the string “exec” in comments or hard-coded strings, because it’s aware of the code structure.
+
+>Find use of SSLv3 tls.Config{…, MinVersion: $TLS.VersionSSL30, …}
+
+>Find hardcoded JWT tokens var $X = []byte(“…”) … $TOKEN := jwt.NewWithClaims(…) … $Y := $TOKEN.SignedString($X)
+
 **2020 June:  [Download presentation](zz_presentations_2020_06.pdf)**
 
 **How to Build Awesome Security Instrumentation to Automate AppSec Testing and Protection** <br>

@@ -34,7 +34,7 @@ The chapter board is
 
 Next Meeting/Event(s)
 ---------------------
-### Wednesday July 15th at 5:30 PM (Virtual Meeting)
+### Wednesday September 16th at 5:30 PM (Virtual Meeting)
 
 **Location:** 
 <a href="https://zoom.us/j/514365407?pwd=VUdmS1UxVXVMZU12aFFTVmNqaTB4Zz09" target="_blank">Zoom Meeting</a>
@@ -45,32 +45,19 @@ Meeting ID: RSVP on our <a href="https://www.meetup.com/OWASP-Denver" target="_b
 
 **Time: 5:30 PM - 7:00 PM**
 
-**Detect complex code patterns using semantic grep** <br>
->We’ll discuss a static analysis tool we’re developing called Semgrep and compare it to tools like gosec. Semgrep is a tool for writing security and correctness queries on source code (for Go, Python, Java, C, and JS) with a simple grep-like interface. The original author, Yoann Padioleau, worked on Semgrep’s predecessor, Coccinelle, for Linux kernel refactoring, and later developed Semgrep while at Facebook. He’s now full time at r2c.
+**Account Takeover: Data Findings, Popular Tools, and Prevalent Actors** <br>
+In our latest account takeover (ATO) findings, we have observed a significant increase in credentials listed on the deep and dark web (15 billion and counting), tools that enable account takeover, and account takeover service advertisements on criminal marketplaces. This presentation highlights the sheer volume of account takeover, how ATO can impact your organization, and mitigation recommendations to keep your credentials safe.
 
->Semgrep is open-source and comes with a registry of OWASP Top 10 security checks. It’s ideal for security researchers, product security engineers, and developers who want to find complex code patterns without extensive knowledge of ASTs or advanced program analysis concepts.
+By attending this session, you will take away:
+- The size of the ATO problem
+- Tools that attackers use for conducting ATO
+- Current and evolved approaches to brute-forcing
+- Best practices for preventing ATO
 
->For example, with Semgrep you can:
-
->Simply match function calls.
-The pattern exec.Command(...) matches exec.Command() called with any arguments or across multiple lines - but not the string "exec" in comments or hard-coded strings, because it's aware of the code structure.
-
->Find use of SSLv3
-tls.Config{..., MinVersion: $TLS.VersionSSL30, ...}
-
->Find hardcoded JWT tokens
-var $X = []byte("...")
-...
-$TOKEN := jwt.NewWithClaims(...)
-...
-$Y := $TOKEN.SignedString($X)
-
->[Source code](https://github.com/returntocorp/semgrep)
->[Test in your browser](https://semgrep.live/)
-
-**Speaker: Clint Gibler ** 
+**Speaker: Kacey Clark, Threat Researcher** 
 <br>
->Clint Gibler (@clintgibler) is the Head of Security Research for r2c, a small startup working on giving security tools directly to developers. Previously, Clint was a Research Director at NCC Group, a global security consulting firm, where he helped companies implement security automation and DevSecOps best practices as well as performed penetration tests for companies ranging from large enterprises to new startups.Clint has previously spoken at conferences including BlackHat USA, AppSec USA/EU/Cali, BSidesSF, and DevSecCon Seattle/London/Tel Aviv/Singapore. Clint holds a Ph.D. in Computer Science from the University of California, Davis.Want to keep up with security research? Check out *tl;dr sec*, Clint’s newsletter that contains summaries of artisanally curated, top talks and useful security links and resources from around the web. <a href="https://tldrsec.com/" target="_blank">tldrsec.com</a>
+
+>Kacey Clark is a Threat Researcher at Digital Shadows, primarily exploring the ever-evolving developments in the information security space. She earned her Bachelor of Science degree in Psychology with a minor in Criminology from University of Texas at Dallas, which serves as her foundation while tracking threat actors and identifying cyber adversary motivations. Kacey is a proponent for women in STEM and is passionate about data privacy, open-source intelligence, and security awareness.
 
 
 Want to Present at OWASP Denver Chapter Events??

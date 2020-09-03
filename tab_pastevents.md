@@ -13,6 +13,7 @@ altfooter: true
 ## Past Events
 <hr>
 
+===================================================================================
 **2020 July:**
 
 **Detect complex code patterns using semantic grep** <br>
@@ -28,6 +29,7 @@ altfooter: true
 
 >Find hardcoded JWT tokens var $X = []byte(“…”) … $TOKEN := jwt.NewWithClaims(…) … $Y := $TOKEN.SignedString($X)
 
+===================================================================================
 **2020 June:  [Download presentation](zz_presentations_2020_06.pdf)**
 
 **How to Build Awesome Security Instrumentation to Automate AppSec Testing and Protection** <br>

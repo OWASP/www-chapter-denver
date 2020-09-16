@@ -37,7 +37,7 @@ Next Meeting/Event(s)
 ### Wednesday September 16th at 5:30 PM (Virtual Meeting)
 
 **Location:** 
-<a href="https://zoom.us/j/514365407?pwd=VUdmS1UxVXVMZU12aFFTVmNqaTB4Zz09" target="_blank">Zoom Meeting</a>
+<a href="https://us02web.zoom.us/j/84198650015?pwd=ckVMSzE5TFhPTHdUdk1YZ1p4aFRaZz09" target="_blank">Zoom Meeting</a>
 
 
 Meeting ID: RSVP on our <a href="https://www.meetup.com/OWASP-Denver" target="_blank">meetup page</a> to receive meetingID and password

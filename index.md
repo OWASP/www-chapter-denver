@@ -29,7 +29,7 @@ The chapter board is
 * [Brad Gable (Board Member)](mailto:brad.gable@owasp.org)
 * [Steve Kosten (Board Member)](mailto:steve.kosten@owasp.org)
 * [Matt Shufeldt (Board Member)](mailto:matt.shufeldt@owasp.org)
-* Frank Victory (Board Member)(mailto:frank.victory@owasp.org)
+* [Frank Victory (Board Member)](mailto:frank.victory@owasp.org)
 
 ### Check our Upcoming Meetup Events:
 {% include chapter_events.html group=page.meetup-group %}

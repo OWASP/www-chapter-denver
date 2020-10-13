@@ -31,6 +31,8 @@ The chapter board is
 * [Matt Shufeldt (Board Member)](mailto:matt.shufeldt@owasp.org)
 * Frank Victory (Board Member)
 
+### Check our Upcoming Meetup Events:
+{% include chapter_events.html group=page.meetup-group %}
 
 Next Meeting/Event(s)
 ---------------------

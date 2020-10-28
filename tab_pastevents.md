@@ -14,6 +14,31 @@ altfooter: true
 <hr>
 
 ===================================================================================
+**2020 October: [Download presentation](zz_presentations_2020_10.pdf)**
+
+**Exploring Impostor Syndrome and Pluralistic Ignorance in Pentesting** <br>
+>“What if they find out I’m not as smart as they think I am?”
+“If I can do it, anyone can do it.”
+“I can’t pull this off? Who am I kidding?”
+“Lucky me, I was in the right place at the right time.”
+
+>Have you ever asked yourself these types of questions? Studies suggest that more than 70% of people experience the impostor syndrome phenomenon at some point in their career, no matter what field they are in. Impostor syndrome combined with pluralistic ignorance can be catastrophic. Pluralistic ignorance can be described as “no one believes, but everyone thinks that everyone else believes”. Together it can make you feel like you are constantly privately rejecting the norm, but publicly go along with it. You have mistakenly assumed everyone else accepts it because they are smarter/faster/better than you are.
+
+>This talk will help you identify those thought patterns that undermine your ability to feel as capable as others know you are and take ownership of your well deserved success. Being proactive, asking the right questions, and once you know there is a problem, start working on the solution.
+
+===================================================================================
+**2020 September: [Download presentation](zz_presentations_2020_09.pdf)**
+
+**Account Takeover: Data Findings, Popular Tools, and Prevalent Actors** <br>
+>In our latest account takeover (ATO) findings, we have observed a significant increase in credentials listed on the deep and dark web (15 billion and counting), tools that enable account takeover, and account takeover service advertisements on criminal marketplaces. This presentation highlights the sheer volume of account takeover, how ATO can impact your organization, and mitigation recommendations to keep your credentials safe.
+
+>By attending this session, you will take away:
+• The size of the ATO problem
+• Tools that attackers use for conducting ATO
+• Current and evolved approaches to brute-forcing
+• Best practices for preventing ATO
+
+===================================================================================
 **2020 July:**
 
 **Detect complex code patterns using semantic grep** <br>

@@ -12,6 +12,36 @@ altfooter: true
 
 ## Past Events
 <hr>
+===================================================================================
+**2021 January: [Download presentation](zz_presentations_2021_01.pdf)**
+
+**Archetypal Secure Application Design Pattern: The Next Evolution** <br>
+>This is the next evolution of the App Sec Effort to move security left
+through repeatable secure software design patterns. Security
+responsibilities and controls are distributed across various levels of
+(IDE-consumable!) UML diagrams; they become Patterns as Code, Architecture
+as Code, Config as Code. Now the diagrams are actually useful to the
+builders and designers, so no effort is wasted, producing true agility
+through treating software archetypes as repeatable, solvable problems with
+appropriate security baked in, just in time, rather than bolted on as an
+afterthought. Bigger, better, and with real examples. Help us improve
+patterns to improve software security.
+
+>**Speaker: Joe Gerber**
+Joe Gerber is a Secure Software Architect and Secure Software Design
+practice lead with 10+ years of secure software design experience. He is
+also a recovering senior web developer and former embedded systems
+programmer. He deeply desires to use patterns to truly make secure software development a repeatable phenomenon.
+
+>He has previously presented at:
+- RMISC 2018
+- SnowFroc 2018
+- Three OWASP Chapter meetings
+- Local community IT professional groups
+- Lead App Sec presenter at quarterly classes held by my employer
+
+>He was a volunteer at Defcon’s inaugural App Sec Village
+
 
 ===================================================================================
 **2020 October: [Download presentation](zz_presentations_2020_10.pdf)**

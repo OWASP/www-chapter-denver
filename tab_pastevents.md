@@ -13,6 +13,19 @@ altfooter: true
 ## Past Events
 <hr>
 ===================================================================================
+**2021 February: [Download presentation](zz_presentations_2021_02.pdf)**
+
+**You Don't Have to Be Crazy to Work Here** <br>
+>Cybersecurity professionals spend most of their day focused on the health and wellbeing of the environments in their care. However, the cost of reducing risk and keeping our networks safe often comes at the price of our professionals' mental health. Many InfoSec professionals burn out, suffer from anxiety and depression, and turn to unhealthy coping mechanisms, which further exacerbate underlying psychological and physical health issues.
+
+>This talk will alleviate the stigma around mental health and stress the importance of open and frank dialogs about this critical issue impacting our community. I will share my journey, reverse engineer the stigma of mental health in business, and look at ways to hack mental health in productive and meaningful ways.
+
+>**Speaker: Douglas Brush**
+Douglas is an information security executive with over 26 years of entrepreneurship and professional technology experience. He is a globally recognized expert in the field of cyber security, incident response, digital forensics, and information governance. In addition to serving as a CISO and leading enterprise security assessments, he has conducted hundreds of investigations involving hacking, data breaches, trade secret theft, employee malfeasance, and a variety of other legal and compliance issues. He also serves as a federally court-appointed Special Master and neutral expert in high profile litigation matters involving privacy, security, and eDiscovery.
+
+>He is the founder and host of Cyber Security Interviews, a popular information security podcast.
+
+===================================================================================
 **2021 January: [Download presentation](zz_presentations_2021_01.pdf)**
 
 **Archetypal Secure Application Design Pattern: The Next Evolution** <br>
@@ -41,7 +54,6 @@ programmer. He deeply desires to use patterns to truly make secure software deve
 - Lead App Sec presenter at quarterly classes held by my employer
 
 >He was a volunteer at Defcon’s inaugural App Sec Village
-
 
 ===================================================================================
 **2020 October: [Download presentation](zz_presentations_2020_10.pdf)**

@@ -7,7 +7,6 @@ tags: Denver
 level: 3
 region: North America
 altfooter: true
-
 meetup group: Denver-OWASP
 country: USA
 postal-code: 80208
@@ -35,7 +34,6 @@ The chapter board is
 ### Check our Upcoming Meetup Events:
 
 {% include chapter_events.html group=page.meetup-group %}
-
 
 Want to Present at OWASP Denver Chapter Events??
 --------------------------------------------

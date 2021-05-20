@@ -32,6 +32,7 @@ The chapter board is
 * [Frank Victory (Board Member)](mailto:frank.victory@owasp.org)
 
 ### Check our Upcoming Meetup Events:
+
 {% include chapter_events.html group=page.meetup-group %}
 
 

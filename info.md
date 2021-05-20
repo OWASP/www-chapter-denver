@@ -1,10 +1,12 @@
-### Denver Information
-* [Become a Member](https://www.owasp.org/index.php/Membership)
-* [Join Our Mailing List](https://groups.google.com/a/owasp.org/forum/?hl=en#!forum/denver)
-* [Local Chapter Support](https://owasp.org/supporters/)
+### Denver Information 
 * [NEW Chapter Policy](https://owasp.org/www-policy/operational/chapters)
 * [OWASP Policies and Procedures](https://owasp.org/www-policy/)
-
+### Board
+* [Aaron Cure](mailto:aaron.cure@owasp.org)
+* [Brad Gable](mailto:brad.gable@owasp.org)
+* [Steve Kosten](mailto:steve.kosten@owasp.org)
+* [Matt Shufeldt](mailto:matt.shufeldt@owasp.org)
+* [Frank Vianzon](mailto:frank.vianzon@owasp.org)
 ### Social Links
 * [Meetup.com](https://www.meetup.com/Denver-OWASP/)
 * [Twitter](https://twitter.com/owasp303)

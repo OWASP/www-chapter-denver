@@ -27,9 +27,8 @@ Join us on our [Slack Channel](https://join.slack.com/t/denver-owasp/shared_invi
 The chapter board is 
 
 * [Serge Borso (Chapter President)](mailto:serge.borso@owasp.org)
-* [Aaron Cure (Board Member)](mailto:aaron.cure@owasp.org)
 * [Brad Gable (Board Member)](mailto:brad.gable@owasp.org)
-* [Steve Kosten (Board Member)](mailto:steve.kosten@owasp.org)
+
 * [Matt Shufeldt (Board Member)](mailto:matt.shufeldt@owasp.org)
 * [Frank Victory (Board Member)](mailto:frank.victory@owasp.org)
 

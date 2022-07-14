@@ -2,11 +2,11 @@
 * [NEW Chapter Policy](https://owasp.org/www-policy/operational/chapters)
 * [OWASP Policies and Procedures](https://owasp.org/www-policy/)
 ### Board
-* [Aaron Cure](mailto:aaron.cure@owasp.org)
-* [Brad Gable](mailto:brad.gable@owasp.org)
-* [Steve Kosten](mailto:steve.kosten@owasp.org)
-* [Matt Shufeldt](mailto:matt.shufeldt@owasp.org)
-* [Frank Victory](mailto:frank.victory@owasp.org)
+* [Serge Borso (Chapter President)](mailto:serge.borso@owasp.org)
+* [John Kittleson (Board Member)](mailto:john.kittleson@owasp.org)
+* [Brad Gable (Board Member)](mailto:brad.gable@owasp.org)
+* [Vince Pascale (Board Member)](mailto:vince.pascale@owasp.org)
+* [Frank Victory (Board Member)](mailto:frank.victory@owasp.org)
 ### Social Links
 * [Meetup.com](https://www.meetup.com/Denver-OWASP/)
 * [Twitter](https://twitter.com/owasp303)

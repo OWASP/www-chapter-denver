@@ -18,19 +18,16 @@ Welcome to the OWASP Denver chapter homepage!!
 
 ***EVERYONE*** is welcome to attend our regular meetings, whether CSO, Developer, QA Engineer, Project Manager, ....  whoever, welcome.  We are dedicated to vendor neutral presentations that raise the security awareness of all attendees.  Come join us!
 
-Follow chapter news on [Meetup](https://www.meetup.com/Denver-OWASP/) 
+### Check our Previous and Upcoming Meetup Events: [Meetup](https://www.meetup.com/Denver-OWASP/) 
 
 Join us on our [Slack Channel](https://join.slack.com/t/denver-owasp/shared_invite/zt-d9ncxhfp-Px6DZBZhsRplWExVbJnm0w) 
 
 The chapter board is 
 
-* [Serge Borso (Chapter President)](mailto:serge.borso@owasp.org)
+* [Vince Pascale (Chapter President)](mailto:vince.pascale@owasp.org)
 * [John Kittleson (Board Member)](mailto:john.kittleson@owasp.org)
-* [Brad Gable (Board Member)](mailto:brad.gable@owasp.org)
-* [Vince Pascale (Board Member)](mailto:vince.pascale@owasp.org)
 * [Frank Victory (Board Member)](mailto:frank.victory@owasp.org)
-
-### Check our Upcoming Meetup Events:
+* [Serge Borso (Board Member)](mailto:serge.borso@owasp.org)
 
 Want to Present at OWASP Denver Chapter Events??
 --------------------------------------------

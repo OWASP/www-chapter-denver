@@ -25,8 +25,8 @@ Join us on our [Slack Channel](https://join.slack.com/t/denver-owasp/shared_invi
 The chapter board is 
 
 * [Vince Pascale (Chapter President)](mailto:vince.pascale@owasp.org)
+* [Frank Victory (Chapter Vice-President)](mailto:frank.victory@owasp.org)
 * [John Kittleson (Board Member)](mailto:john.kittleson@owasp.org)
-* [Frank Victory (Board Member)](mailto:frank.victory@owasp.org)
 * [Serge Borso (Board Member)](mailto:serge.borso@owasp.org)
 
 Want to Present at OWASP Denver Chapter Events??

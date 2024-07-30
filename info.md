@@ -3,7 +3,7 @@
 * [OWASP Policies and Procedures](https://owasp.org/www-policy/)
 ### Board
 ** [Vince Pascale (Chapter President)](mailto:vince.pascale@owasp.org)
-** [Frank Victory (Chapter Vice-President)](mailto:frank.victory@owasp.org)
+* [Frank Victory (Chapter Vice-President)](mailto:frank.victory@owasp.org)
 * [Serge Borso (Board Member)](mailto:serge.borso@owasp.org)
 * [John Kittleson (Board Member)](mailto:john.kittleson@owasp.org)
 

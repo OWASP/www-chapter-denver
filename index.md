@@ -20,7 +20,7 @@ Welcome to the OWASP Denver chapter homepage!!
 
 ### Check our Previous and Upcoming Meetup Events: [Meetup](https://www.meetup.com/Denver-OWASP/) 
 
-Join us on our [Slack Channel](https://join.slack.com/t/denver-owasp/shared_invite/zt-d9ncxhfp-Px6DZBZhsRplWExVbJnm0w) 
+Join us on our [Slack Channel]([https://join.slack.com/t/denver-owasp/shared_invite/zt-d9ncxhfp-Px6DZBZhsRplWExVbJnm0w]) 
 
 The chapter board is 
 

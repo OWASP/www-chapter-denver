@@ -9,7 +9,7 @@
 
 ### Social Links
 * [Meetup.com](https://www.meetup.com/Denver-OWASP/)
-* [Twitter](https://twitter.com/owasp303)
+* [Twitter / X](https://x.com/owasp303)
 * [Slack]([https://join.slack.com/t/denver-owasp/shared_invite/zt-d9ncxhfp-Px6DZBZhsRplWExVbJnm0w]) 
 
 ### Code Repository

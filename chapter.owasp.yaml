@@ -1,0 +1,29 @@
+leaders:
+  - name: Vince Pascale
+    email: vince.pascale@owasp.org
+    github: vincepascale
+  - name: Frank Victory
+    email: frank.victory@owasp.org
+  - name: Serge Borso
+    email: serge.borso@owasp.org
+  - name: John Kittleson
+    email: john.kittleson@owasp.org
+location:
+  country: United States
+  country_code: US
+  region: Colorado
+  city: Denver
+  postal_code: '80208'
+  latitude: 37.4697529
+  longitude: -105.86206698275467
+meetup_group: Denver-OWASP
+name: OWASP Denver
+repositories:
+  - name: www-chapter-denver
+    url: https://github.com/OWASP/www-chapter-denver
+    description: OWASP Foundation Web Repository
+tags:
+  - Denver
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-denver
